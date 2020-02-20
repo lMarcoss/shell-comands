@@ -6,7 +6,7 @@ declare -a PODS=(
     "sura-server-services-9-r19ps"
     )
 
-DIAS_ANTES=1
+DIAS_ANTES=0
 
 #CALCULA FECHA INICIAL RESTANDO DIAS ANTES
 FECHA1=$(date +"%Y-%m")
